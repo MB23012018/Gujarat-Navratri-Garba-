@@ -1,0 +1,6 @@
+{
+  "name": "Garba Utsav Gujarat – Navratri Discovery & Planning Platform",
+  "description": "Discover, explore, compare, and plan Gujarat Navratri Garba events, artists, competitions, cash prizes, tickets, timings, parking, and entry rules across Ahmedabad, Vadodara, Surat, and Rajkot without registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
